@@ -1,0 +1,11 @@
+# сборка
+*.o
+*.d
+/tun
+# артефакты прогонов
+*.pcap
+*.log
+__pycache__/
+# IDE
+.idea/
+cmake-build-*/
